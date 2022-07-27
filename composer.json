@@ -1,0 +1,20 @@
+{
+    "name": "lucascorreia/buscador-de-cursos",
+    "description": "Pacote buscador de cursos",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Lucascorreia\\BuscadorDeCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Correia"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "symfony/dom-crawler": "^6.1",
+        "symfony/css-selector": "^6.1"
+    }
+}
