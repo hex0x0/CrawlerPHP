@@ -4,7 +4,7 @@
 Crawler que raspa dados do site da Alura
 
 ## :books: Funcionalidades
-* <b>Retorna o nome das formacoes</b>:
+* <b>Retorna o nome das formacoes</b>
 
 ## :wrench: Tecnologias utilizadas
 * PHP, COMPOSER;
